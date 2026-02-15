@@ -1,0 +1,18 @@
+{
+  "name": "airline-booking-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "http-status-code": "^2.1.0",
+    "notenv": "^2.0.3"
+  }
+}
