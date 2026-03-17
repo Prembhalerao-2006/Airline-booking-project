@@ -1,5 +1,5 @@
 const express = require('express');
-const apiRoutes = reuired('./routes');
+const apiRoutes = require('./src/routes');
 
 const { PORT } = require('./src/config');
 
